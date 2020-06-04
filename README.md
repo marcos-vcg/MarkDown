@@ -29,17 +29,17 @@
     * *Itálico* ou _Itálico_
     * __*Negrito e Itálico*__
   * __*Listas:*__
-    * Numeradas
+    * _Numeradas_
     
       1. Listas 
-          1. => Pode colocar 1. que ele lê o tópico 2.
-            1. => Subtópico (i) depois de 3 espaços.
-      * __*Demarcadas*__    
-        - Tópicos 
-          * Subtópico depois de 2 espaços
-      * __*De Tarefas.*__  
-        * [ ] Caixas para marcar.
-        * [x] Caixas Marcadas. 
+      1. => Pode colocar 1. que ele lê o tópico 2.
+         1. => Subtópico (i) depois de 3 espaços.
+    * __*Demarcadas*__    
+      - Tópicos 
+        * Subtópico depois de 2 espaços
+    * __*De Tarefas.*__  
+      * [ ] Caixas para marcar.
+      * [x] Caixas Marcadas. 
   * Imagens e Links:
 ![descrição](caminho da imagem) ou Arraste a foto. 
 [comentário clicável](Link quando clicar)
