@@ -46,13 +46,14 @@ Num | Nome | Nota
 1 | Gustavo | 8,5
 2 | José | 10
 
-
 * __Comandos e trechos de código:__
   * Destaca um comando `document.getElementById()` no texto.
   * ``` Escreve todo o trecho do código entre as 3 crases.```
+  
 * __Citações e Marcações:__
   * @Marca Alguem
   * #Marca Issue
+  
 * __Reply / Quote Replay:__
 > Escrever algo
 * __Comentários:__
@@ -64,6 +65,6 @@ Num | Nome | Nota
   * [Emojis Para o Texto](https://github.com/ikatyang/emoji-cheat-sheet)
   * [Emojis Para o Título](https://emojipedia.org/)
 * __Imagens:__
-  * ![descrição](caminho da imagem) ou Arraste a foto.
   * Prefira: PNG e JPG
   * Máximo 500 px de largura
+  * ![descrição](caminho da imagem) ou Arraste a foto.
