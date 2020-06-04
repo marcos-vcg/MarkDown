@@ -1,6 +1,6 @@
 # MarkDown
 ## Guia com os principais comandos e exemplos de MarkDown.
-
+### Breve Introdução
 * __O que é?__
   * Linguagem de Marcação de Texto parecido com o HTML, mas muito mais intuitiva.
 * __Outras Aplicações:__
@@ -11,60 +11,61 @@
   * Issues / Apenas no corpo, não no título (emojipedia.org)
   * Pull Requests
 
-* __Marcações:__
-  * __*Hierarquia de Tópicos:*__
-    * # Título Nível 1 ou h1
-    * ## Título Nível 2 ou h2
-    * ### Título Nível 3 ou h3
-    * #### Título Nível 4 ou h4
-  * __*Separadores:*__
+### Lista de Marcações 
+* __Hierarquia de Tópicos:__
+  * # Título Nível 1 ou h1
+  * ## Título Nível 2 ou h2
+  * ### Título Nível 3 ou h3
+  * #### Título Nível 4 ou h4
+* __Separadores:__
     
     Separa Normal
     ***
     Separa o Título do Texto
     ---
-  * __*Textuais:*__
-    * ~~Texto Riscado~~
-    * **Negrito** ou __Negrito__
-    * *Itálico* ou _Itálico_
-    * __*Negrito e Itálico*__
-  * __*Listas:*__
-    * _Numeradas_
-    
-      1. Listas 
-      1. => Pode colocar 1. que ele lê o tópico 2.
-         1. => Subtópico (i) depois de 3 espaços.
-    * __*Demarcadas*__    
-      - Tópicos 
-        * Subtópico depois de 2 espaços
-    * __*De Tarefas.*__  
-      * [ ] Caixas para marcar.
-      * [x] Caixas Marcadas. 
-  * Imagens e Links:
-![descrição](caminho da imagem) ou Arraste a foto. 
-[comentário clicável](Link quando clicar)
-PNG e JPG
-Máximo 500 px de largura
-* Tabelas:
-Num | Nome | Nota   => Campos principais da tabela
---- | --- | ---             => Separador
-1 | Gustavo | 8,5     => Basta preencher na ordem certa.
-2 | José | 10            => Vários
-                                  => Terminar só deixar um espaço vazio
-* Comandos e trechos de código:
+* __Textuais:__
+  * ~~Texto Riscado~~
+  * **Negrito** ou __Negrito__
+  * *Itálico* ou _Itálico_
+  * __*Negrito e Itálico*__
+* __Listas:__
+  * __*Numeradas*__    
+      1. Listas (1. i. a.)
+      1. Pode colocar 1. que ele lê o tópico 2.
+         1. Subtópico (i) depois de 3 espaços.
+  * __*Demarcadas*__    
+    - Tópicos 
+      * Subtópico depois de 2 espaços
+  * __*De Tarefas.*__  
+    * [ ] Caixas para marcar.
+    * [x] Caixas Marcadas. 
+* __Links e Imagens:__
+  * [comentário clicável](Link quando clicar)
+  * ![descrição](caminho da imagem) ou Arraste a foto.
+  * Prefira: PNG e JPG
+  * Máximo 500 px de largura
+* __Tabelas:__
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Gustavo | 8,5
+2 | José | 10
+
+
+* __Comandos e trechos de código:__
 `document.getElementById()`  => Escritos entre crases. Monoespaçado com o fundo cinza.
 ``` 
 Escreve todo o trecho do código entre as 3 crases.
 ```
-* Citações e Marcações:
+* __Citações e Marcações:__
 @...  => Marca alguem
 #...  => Marca alguma Issue
-* Emojis:
+* __Emojis:__
 :vulcan salute   => Escreve o que quer 
 https://github.com/ikatyang/emoji-cheat-sheet
 https://emojipedia.org/  => Para o Título
-* Reply / Quote Replay
+* __Reply / Quote Replay:__
 > Escrever algo
-* Comentários
+* __Comentários:__
 
       6 Espaços Após o último tópico.
