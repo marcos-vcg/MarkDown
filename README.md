@@ -31,16 +31,15 @@
   * __*Listas:*__
     * Numeradas
      
-1. 
-      * 1. ...  => Pode colocar 1. que ele lê o tópico 2.
-        * 1. ... =>  Subtópico (i) depois de 2 espaços.
-        
-    * __*Demarcadas*__    
-    * * … ou - ... => Listas 
-      * * ... ou - ...  => Subtópico depois de 2 espaços
-    * __*Listas de Tarefas.*__  
-      * [ ] ou [x] =>  Caixas para marcar.
-* Imagens e Links:
+1. Listas 
+1. => Pode colocar 1. que ele lê o tópico 2.
+   1. => Subtópico (i) depois de 3 espaços.
+      * __*Demarcadas*__    
+        * * … ou - ... => Listas 
+        * * ... ou - ...  => Subtópico depois de 2 espaços
+      * __*De Tarefas.*__  
+        * [ ] ou [x] =>  Caixas para marcar.
+  * Imagens e Links:
 ![descrição](caminho da imagem) ou Arraste a foto. 
 [comentário clicável](Link quando clicar)
 PNG e JPG
