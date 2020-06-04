@@ -39,11 +39,6 @@
   * __*De Tarefas.*__  
     * [ ] Caixas para marcar.
     * [x] Caixas Marcadas. 
-* __Links e Imagens:__
-  * [comentário clicável](Link quando clicar)
-  * ![descrição](caminho da imagem) ou Arraste a foto.
-  * Prefira: PNG e JPG
-  * Máximo 500 px de largura
 * __Tabelas:__
 
 Num | Nome | Nota
@@ -58,12 +53,17 @@ Num | Nome | Nota
 * __Citações e Marcações:__
   * @Marca Alguem
   * #Marca Issue
-* __Emojis:__
-  * :vulcan_salute:
-  * [Para o Texto](https://github.com/ikatyang/emoji-cheat-sheet)
-  * [Para o Título](https://emojipedia.org/)
 * __Reply / Quote Replay:__
 > Escrever algo
 * __Comentários:__
 
       6 Espaços Após o último tópico.
+* __Emojis:__
+  * :vulcan_salute:
+* __Links:__
+  * [Emojis Para o Texto](https://github.com/ikatyang/emoji-cheat-sheet)
+  * [Emojis Para o Título](https://emojipedia.org/)
+* __Imagens:__
+  * ![descrição](caminho da imagem) ou Arraste a foto.
+  * Prefira: PNG e JPG
+  * Máximo 500 px de largura
