@@ -30,15 +30,16 @@
     * __*Negrito e Itálico*__
   * __*Listas:*__
     * Numeradas
-     
-1. Listas 
-1. => Pode colocar 1. que ele lê o tópico 2.
-   1. => Subtópico (i) depois de 3 espaços.
+    
+      1. Listas 
+          1. => Pode colocar 1. que ele lê o tópico 2.
+            1. => Subtópico (i) depois de 3 espaços.
       * __*Demarcadas*__    
-        * * … ou - ... => Listas 
-        * * ... ou - ...  => Subtópico depois de 2 espaços
+        - Tópicos 
+          * Subtópico depois de 2 espaços
       * __*De Tarefas.*__  
-        * [ ] ou [x] =>  Caixas para marcar.
+        * [ ] Caixas para marcar.
+        * [x] Caixas Marcadas. 
   * Imagens e Links:
 ![descrição](caminho da imagem) ou Arraste a foto. 
 [comentário clicável](Link quando clicar)
@@ -64,3 +65,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 https://emojipedia.org/  => Para o Título
 * Reply / Quote Replay
 > Escrever algo
+* Comentários
+
+      6 Espaços Após o último tópico.
