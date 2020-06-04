@@ -4,7 +4,7 @@
 * __O que é?__
   * Linguagem de Marcação de Texto parecido com o HTML, mas muito mais intuitiva.
 * __Outras Aplicações:__
-  * Júpiter
+  * Jupiter
 
 * __Como Aplicar no GitHub?__
   * Arquivo Readme.md
