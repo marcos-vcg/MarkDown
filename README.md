@@ -59,9 +59,9 @@ Num | Nome | Nota
   * @Marca Alguem
   * #Marca Issue
 * __Emojis:__
-  * :vulcan salute   => Escreve o que quer 
-  * https://github.com/ikatyang/emoji-cheat-sheet
-  * https://emojipedia.org/  => Para o Título
+  * :vulcan_salute:
+  * [Para o Texto](https://github.com/ikatyang/emoji-cheat-sheet)
+  * [Para o Título](https://emojipedia.org/)
 * __Reply / Quote Replay:__
 > Escrever algo
 * __Comentários:__
