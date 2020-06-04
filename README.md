@@ -53,17 +53,15 @@ Num | Nome | Nota
 
 
 * __Comandos e trechos de código:__
-`document.getElementById()`  => Escritos entre crases. Monoespaçado com o fundo cinza.
-``` 
-Escreve todo o trecho do código entre as 3 crases.
-```
+  * Destaca um comando `document.getElementById()` no texto.
+  * ``` Escreve todo o trecho do código entre as 3 crases.```
 * __Citações e Marcações:__
-@...  => Marca alguem
-#...  => Marca alguma Issue
+  * @Marca Alguem
+  * #Marca Issue
 * __Emojis:__
-:vulcan salute   => Escreve o que quer 
-https://github.com/ikatyang/emoji-cheat-sheet
-https://emojipedia.org/  => Para o Título
+  * :vulcan salute   => Escreve o que quer 
+  * https://github.com/ikatyang/emoji-cheat-sheet
+  * https://emojipedia.org/  => Para o Título
 * __Reply / Quote Replay:__
 > Escrever algo
 * __Comentários:__
