@@ -28,37 +28,40 @@
     * **Negrito** ou __Negrito__
     * *Itálico* ou _Itálico_
     * __*Negrito e Itálico*__
-    * --- ou *** => Separador
   * __*Listas:*__
     * Numeradas
-      * 1. 
+     
+1. 
       * 1. ...  => Pode colocar 1. que ele lê o tópico 2.
         * 1. ... =>  Subtópico (i) depois de 2 espaços.
-    * * … ou - ... => Listas Demarcadas
+        
+    * __*Demarcadas*__    
+    * * … ou - ... => Listas 
       * * ... ou - ...  => Subtópico depois de 2 espaços
-[ ] ou [x] => Listas de Tarefas. Caixas para marcar.
-Imagens e Links:
+    * __*Listas de Tarefas.*__  
+      * [ ] ou [x] =>  Caixas para marcar.
+* Imagens e Links:
 ![descrição](caminho da imagem) ou Arraste a foto. 
 [comentário clicável](Link quando clicar)
 PNG e JPG
 Máximo 500 px de largura
-Tabelas:
+* Tabelas:
 Num | Nome | Nota   => Campos principais da tabela
 --- | --- | ---             => Separador
 1 | Gustavo | 8,5     => Basta preencher na ordem certa.
 2 | José | 10            => Vários
                                   => Terminar só deixar um espaço vazio
-Comandos e trechos de código:
+* Comandos e trechos de código:
 `document.getElementById()`  => Escritos entre crases. Monoespaçado com o fundo cinza.
 ``` 
 Escreve todo o trecho do código entre as 3 crases.
 ```
-Citações e Marcações:
+* Citações e Marcações:
 @...  => Marca alguem
 #...  => Marca alguma Issue
-Emojis:
+* Emojis:
 :vulcan salute   => Escreve o que quer 
 https://github.com/ikatyang/emoji-cheat-sheet
 https://emojipedia.org/  => Para o Título
-Reply / Quote Replay
+* Reply / Quote Replay
 > Escrever algo
