@@ -67,4 +67,5 @@ Num | Nome | Nota
 * __Imagens:__
   * Prefira: PNG e JPG
   * Máximo 500 px de largura
+
   ![Marcos-Assinatura](https://user-images.githubusercontent.com/64797599/83775325-2c158a80-a65d-11ea-9023-77fd589f8f9d.png)
