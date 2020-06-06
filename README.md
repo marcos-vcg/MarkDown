@@ -57,7 +57,11 @@ Num | Nome | Nota
   * #Marca Issue
   
 * __Reply / Quote Replay:__
-> Escrever algo
+
+> Utilizamos quando queremos citar algo dito anteriormente. Para transformar um texto em uma citação ou comentário, semelhante ao código HTML "blockquote", utilize o sinal > no início da linha que será formatada. 
+> Para adicionar mais uma linha à citação, basta teclar Enter para um novo código sinal.
+>> É possível fazer uma citação dentro de outra dessa forma.
+ 
 * __Comentários:__
 
       6 Espaços Após o último tópico.
