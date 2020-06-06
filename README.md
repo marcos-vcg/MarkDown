@@ -48,6 +48,11 @@ Num | Nome | Nota
 1 | Gustavo | 8,5
 2 | José | 10
 
+Esquerda | Centralizado | Direita
+:--- | :---: | ---:
+0 | 0 | 0
+1 | 1 | 1
+
 * __Comandos e trechos de código:__
   * Destaca um comando `document.getElementById()` no texto.
   * ``` Escreve todo o trecho do código entre as 3 crases.```
@@ -58,7 +63,7 @@ Num | Nome | Nota
   
 * __Reply / Quote Replay:__
 
-> Utilizamos quando queremos citar algo dito anteriormente. Para transformar um texto em uma citação ou comentário, semelhante ao código HTML "blockquote", utilize o sinal > no início da linha que será formatada. 
+> Utilizamos quando queremos citar algo dito anteriormente. Para transformar um texto em uma citação ou comentário, semelhante ao código HTML **"blockquote"**, utilize o sinal **">"** no início da linha que será formatada. 
 > Para adicionar mais uma linha à citação, basta teclar Enter para um novo código sinal.
 >> É possível fazer uma citação dentro de outra dessa forma.
  
