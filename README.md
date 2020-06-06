@@ -17,6 +17,8 @@
   * ## Título Nível 2 ou h2
   * ### Título Nível 3 ou h3
   * #### Título Nível 4 ou h4
+  * ##### Título Nível 5 ou h5
+  * ###### Título Nível 6 ou h6
 * __Separadores:__
     
     Separa Normal
