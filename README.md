@@ -66,6 +66,7 @@ Num | Nome | Nota
 * __Links:__
   * [Emojis Para o Texto](https://github.com/ikatyang/emoji-cheat-sheet)
   * [Emojis Para o Título](https://emojipedia.org/)
+  * <https://github.com/marcos-vcg>
 * __Imagens:__
   * Prefira: PNG e JPG
   * Máximo 500 px de largura
